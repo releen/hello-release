@@ -22,6 +22,6 @@ See: https://github.com/releen/hello-tile
 - Create a release tarball and copy it to `../hello-tile/releases`
 - (optional) Change the stemcell version in the Kilnfile.lock.
 - Use `kiln bake` to create it.
-- Upload to Ops Manger
-- Configure the network stuff
-- Hit apply changes... take a walk
+- Upload to Ops Manger.
+- Configure the network stuff.
+- Hit apply changes... take a walk.
