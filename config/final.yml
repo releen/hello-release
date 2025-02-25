@@ -2,4 +2,4 @@ name: hello-release
 blobstore:
   provider: gcs
   options:
-    bucket_name: crhntr-hello-release
+    bucket_name: releen-hello-release

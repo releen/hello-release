@@ -1,4 +1,4 @@
-module github.com/crhntr/hello-release/src
+module github.com/releen/hello-release/src
 
 go 1.23
 

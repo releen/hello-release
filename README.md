@@ -17,7 +17,7 @@ See: ./examples/deployment/manifest.yml
 
 ### Tile
 
-See: https://github.com/crhntr/hello-tile
+See: https://github.com/releen/hello-tile
 
 - Create a release tarball and copy it to `../hello-tile/releases`
 - (optional) Change the stemcell version in the Kilnfile.lock.
